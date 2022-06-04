@@ -24,19 +24,21 @@
       {
         "title": "Dark Meadow: The Pact",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
         "color": "#000000",
         "text_size": "25",
-        "isLink": true,
+        "isLink": false,
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+        "text": "",
         "isNative": false,
 		"background": "#00FF00"
       },
       {
         "title": "The Old 2",
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
@@ -50,6 +52,7 @@
       {
         "title": "Call of Cthulhu: Wasted Land ",
         "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
@@ -63,6 +66,7 @@
       {
         "title": "Dead Space Android",
         "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
@@ -76,6 +80,7 @@
       {
         "title": "Bloody Mary",
         "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
@@ -89,6 +94,7 @@
       {
         "title": "Twisted Lands: Shadow Town",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
