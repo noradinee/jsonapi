@@ -7,9 +7,9 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-		"MaxBanner": "a401188675294abe",
-		"MaxInterstitial":"20b40c57556d7360",
-		"MaxNative":"928221573494001c",
+		"MaxBanner": "",
+		"MaxInterstitial":"",
+		"MaxNative":"",
 		
 
         
@@ -23,8 +23,8 @@
     "items": [
       {
         "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
+	      "video": "https://video.wixstatic.com/video/94d710_f2f784d267364f568473ad33bbace8a4/144p/mp4/file.mp4",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
@@ -37,7 +37,7 @@
       },
       {
         "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -51,7 +51,7 @@
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -65,7 +65,7 @@
       },
       {
         "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -79,7 +79,7 @@
       },
       {
         "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -93,7 +93,7 @@
       },
       {
         "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_86988ae0d11348bca5f13c6583b09372/360p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
