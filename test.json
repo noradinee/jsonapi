@@ -22,7 +22,7 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
+        "title": "level 1 to level 3",
         "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
 	      "video": "https://video.wixstatic.com/video/94d710_f2f784d267364f568473ad33bbace8a4/144p/mp4/file.mp4",
         "color": "#000000",
@@ -36,9 +36,9 @@
 		"background": "#00FF00"
       },
       {
-        "title": "The Old 2",
+        "title": "level 4 to level 6",
         "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
-	      "video": "https://video.wixstatic.com/video/94d710_8790d5b3b8e34a7bb33eb0c122eb4495/144p/mp4/file.mp4",
+	      "video": "https://video.wixstatic.com/video/94d710_724a11d274844761987ea66fa35957c4/144p/mp4/file.mp4",
 		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
