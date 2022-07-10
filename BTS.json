@@ -2,11 +2,11 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "max",
+        "NetworkAds": "admob",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-5694162002949954/3970467115",
+        "InterstitialAdmob": "ca-app-pub-5694162002949954/7966687915",
+        "NativeAdmob": "ca-app-pub-5694162002949954/9402240273",
 	"MaxBanner": "a401188675294abe",
 	"MaxInterstitial":"20b40c57556d7360",
 	"MaxNative":"928221573494001c",
