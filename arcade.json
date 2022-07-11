@@ -4,12 +4,12 @@
       {
         "NetworkAds": "max",
 
-        "BannerAdmob": "ca-app-pub-5694162002949954/3784804286",
-        "InterstitialAdmob": "ca-app-pub-5694162002949954/5273979923",
-        "NativeAdmob": "ca-app-pub-5694162002949954/7300273816",
-	"MaxBanner": "",
-	"MaxInterstitial":"14d9319ea8ad991b",
-	"MaxNative":"",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	"MaxBanner": "a401188675294abe",
+	"MaxInterstitial":"20b40c57556d7360",
+	"MaxNative":"928221573494001c",
 		
 
         
@@ -22,20 +22,75 @@
 
     "items": [
       {
-        "title": "click here",
-        "image": "https://static.wixstatic.com/media/94d710_17b46b20d8b74450afb750f5951cb360~mv2.png",
-	 "video": "https://video.wixstatic.com/video/94d710_1f6ebb77878441238db19215468bcccb/240p/mp4/file.mp4",
+        "title": "walkthrough Bts island 1",
+        "image": "https://static.wixstatic.com/media/94d710_8a15182a24bc4ebc90eced5b08b055a8~mv2.png",
+	      "video": "https://video.wixstatic.com/video/1fc81d_743f8a3d8a7b43cfbe3ec411e7255681/360p/mp4/file.mp4",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
-	"link_title": "",
+	      "link_title": "",
+      	"setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+	    	"background": "#00FF00"
+      },
+      {
+        "title": "walkthrough Bts island 2",
+        "image": "https://static.wixstatic.com/media/94d710_8a15182a24bc4ebc90eced5b08b055a8~mv2.png",
+	      "video": "https://video.wixstatic.com/video/1fc81d_6a49360e190d46e5aab36ca5bf013a87/360p/mp4/file.mp4",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+	      "link_title": "",
+      	"setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+	    	"background": "#00FF00"
+      },
+      {
+        "title": "walkthrough Bts island 3",
+        "image": "https://static.wixstatic.com/media/94d710_8a15182a24bc4ebc90eced5b08b055a8~mv2.png",
+	      "video": "https://video.wixstatic.com/video/1fc81d_613a43d145ed45b2af3e6f6304aa72a5/360p/mp4/file.mp4",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+	      "link_title": "",
+      	"setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+	    	"background": "#00FF00"
+      },
+      {
+        "title": "walkthrough Bts island 4",
+        "image": "https://static.wixstatic.com/media/94d710_8a15182a24bc4ebc90eced5b08b055a8~mv2.png",
+	      "video": "https://video.wixstatic.com/video/1fc81d_063ac61811064ecdb316c5ad46fbdedf/360p/mp4/file.mp4",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+	      "link_title": "",
+      	"setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": false,
+	    	"background": "#00FF00"
+      },
+      {
+        "title": "walkthrough Bts island 5",
+        "image": "https://static.wixstatic.com/media/94d710_8a15182a24bc4ebc90eced5b08b055a8~mv2.png",
+	      "video": "https://video.wixstatic.com/video/1fc81d_eeb8cbe509814ffa9feca91772fc4508/360p/mp4/file.mp4",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+	      "link_title": "",
       	"setLink": "",
         "image_link": "",
         "text": "",
         "isNative": false,
 	    	"background": "#00FF00"
       }
-     
     ]
    
 			
