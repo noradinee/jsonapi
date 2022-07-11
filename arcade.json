@@ -2,13 +2,13 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "admob",
+        "NetworkAds": "max",
 
-        "BannerAdmob": "ca-app-pub-5694162002949954/8021516473",
-        "InterstitialAdmob": "ca-app-pub-5694162002949954/7562088144",
-        "NativeAdmob": "ca-app-pub-5694162002949954/4092512779",
+        "BannerAdmob": "ca-app-pub-5694162002949954/3784804286",
+        "InterstitialAdmob": "ca-app-pub-5694162002949954/5273979923",
+        "NativeAdmob": "ca-app-pub-5694162002949954/7300273816",
 	"MaxBanner": "",
-	"MaxInterstitial":"",
+	"MaxInterstitial":"14d9319ea8ad991b",
 	"MaxNative":"",
 		
 
@@ -23,12 +23,12 @@
     "items": [
       {
         "title": "click here",
-        "image": "https://static.wixstatic.com/media/94d710_6f14641af6664c6492b1315da3092d37~mv2.png",
-	      "video": "https://video.wixstatic.com/video/94d710_d8af91e685a044c7a338bc948a36d392/480p/mp4/file.mp4",
+        "image": "https://static.wixstatic.com/media/94d710_17b46b20d8b74450afb750f5951cb360~mv2.png",
+	 "video": "https://video.wixstatic.com/video/94d710_1f6ebb77878441238db19215468bcccb/240p/mp4/file.mp4",
         "color": "#000000",
         "text_size": "25",
         "isLink": false,
-	      "link_title": "",
+	"link_title": "",
       	"setLink": "",
         "image_link": "",
         "text": "",
