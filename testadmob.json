@@ -4,40 +4,40 @@
       {
         "NetworkAds": "max",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"MaxBanner": "a401188675294abe",
-	"MaxInterstitial":"20b40c57556d7360",
-	"MaxNative":"928221573494001c",
+        "BannerAdmob": "ca-app-pub-4801295969308614/6994296295",
+        "InterstitialAdmob": "ca-app-pub-4801295969308614/7290073090",
+        "NativeAdmob": "ca-app-pub-4801295969308614/5785419733",
+		"MaxBanner": "40851ae3e0b79142",
+		"MaxInterstitial":"5c5fc07793c779be",
+		"MaxNative":"9040e8999299ebe8",
 		
 
         
 		
         "ImageBanner": false,
-        "ImageBannerImg" : "",
-        "ImageBannerURL" : ""
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
 		
       },
 
     "items": [
       {
-        "title": "Tippy Toe 3D",
-        "image": "https://static.wixstatic.com/media/94d710_e423721504d741289e8b6713637d9bb3~mv2.png",
-	 "video": "https://video.wixstatic.com/video/94d710_21df5d0afabe4eddbe4e2dc1c142677b/480p/mp4/file.mp4",
-        "color": "#000000",
+        "title": "level 16",
+        "image": "https://static.wixstatic.com/media/94d710_0194ccc15e9742bc948a74c9cffd6dd5~mv2.png",
+	      "video": "https://video.wixstatic.com/video/94d710_cea4e157f36b4cc3810abe46e538d800/144p/mp4/file.mp4",
+		"color": "#FFFFFF",
         "text_size": "25",
         "isLink": false,
-	      "link_title": "",
-      	"setLink": "",
+		"link_title": "",
+		"setLink": "",
         "image_link": "",
-        "text": "",
+        "text": "Dark Meadow : The Pact",
         "isNative": false,
-	    	"background": "#00FF00"
+		"background": "#00FF00"
       }
-      
+    ]
    
- ]		
+			
 	
   }
 }
