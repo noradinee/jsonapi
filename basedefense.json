@@ -1,0 +1,43 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/4437843737",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/6872435383",
+              "NativeAdmob": "ca-app-pub-5694162002949954/6510576956",
+                      "MaxBanner": "8ec847e45f53986b",
+                      "MaxInterstitial":"8c508ea6e592f230",
+                      "MaxNative":"5d72b5a16bba548e",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+              "ImageBannerURL" : "https://www.google.com"
+                      
+            },
+      
+          "items": [
+            {
+              "title": "click here",
+              "image": "https://static.wixstatic.com/media/94d710_bf7a039e646d434cb4be2ffccb279ce4~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_c9f091ca59884147a246d8f1eec50d8e/480p/mp4/file.mp4",
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
