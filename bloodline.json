@@ -4,12 +4,12 @@
             {
               "NetworkAds": "max",
       
-              "BannerAdmob": "ca-app-pub-5694162002949954/4437843737",
-              "InterstitialAdmob": "ca-app-pub-5694162002949954/6872435383",
-              "NativeAdmob": "ca-app-pub-5694162002949954/6510576956",
-                      "MaxBanner": "8ec847e45f53986b",
-                      "MaxInterstitial":"8c508ea6e592f230",
-                      "MaxNative":"5d72b5a16bba548e",
+              "BannerAdmob": "ca-app-pub-5694162002949954/1681309141",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/1138383668",
+              "NativeAdmob": "ca-app-pub-5694162002949954/7512220327",
+                      "MaxBanner": "fcee464202496c28",
+                      "MaxInterstitial":"b728c1a2c6584261",
+                      "MaxNative":"96d2b167aba475a9",
                       
       
               
