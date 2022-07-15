@@ -1,0 +1,43 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/8178149325",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/3855760939",
+              "NativeAdmob": "ca-app-pub-5694162002949954/2873017600",
+                      "MaxBanner": "e4d3ee412cb09ced",
+                      "MaxInterstitial":"69ca43a4d3a70884",
+                      "MaxNative":"b3d9065a27fde645",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+              "title": "house flip ",
+              "image": "https://static.wixstatic.com/media/94d710_677ebb7c457a4fea8bb62a6630b53048~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_907d566f7eb34fc19bdc90d58a3e968e/144p/mp4/file.mp4",
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
