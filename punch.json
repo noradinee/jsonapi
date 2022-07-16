@@ -1,0 +1,48 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/3515235186",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/1324186110",
+              "NativeAdmob": "ca-app-pub-5694162002949954/3758777760",
+                      "MaxBanner": "b5b5e96412dd5db0",
+                      "MaxInterstitial":"d19be444aa411645",
+                      "MaxNative":"9d53a10f31b5904a",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+
+
+              "title": "Punch Guys",
+              "image": "https://static.wixstatic.com/media/94d710_4e3635ebada44f40b5db91664c9815fa~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_6eca7c4c1f40460d94c0110bdd7a9360/360p/mp4/file.mp4",
+
+
+
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
