@@ -1,0 +1,48 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/8681847676",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/1924867635",
+              "NativeAdmob": "ca-app-pub-5694162002949954/3046377612",
+                      "MaxBanner": "cdbb1a3626db71d5",
+                      "MaxInterstitial":"7a8f79c8848c75fc",
+                      "MaxNative":"7dff422e4ac219ab",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+
+
+              "title": "pull it down guide",
+              "image": "https://static.wixstatic.com/media/94d710_bac6fc42504141d3bbac8f67fd6880eb~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_7c7bae3ff77b4cd79cc531c85ba3cc9f/144p/mp4/file.mp4",
+
+
+
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
