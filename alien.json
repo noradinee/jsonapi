@@ -1,0 +1,48 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/1657930868",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/1647404147",
+              "NativeAdmob": "ca-app-pub-5694162002949954/2779440849",
+                      "MaxBanner": "2d44155309322420",
+                      "MaxInterstitial":"5d9462c3d57c0ca5",
+                      "MaxNative":"826f5bbc8b3eddcb",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+
+
+              "title": "Alien Catcher: Area 51",
+              "image": "https://static.wixstatic.com/media/94d710_92d344d27fb24b4cb40443787de49414~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_cff1a64eaa1447ddabc3654464f30031/360p/mp4/file.mp4",
+
+
+
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
