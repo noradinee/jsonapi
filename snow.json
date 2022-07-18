@@ -1,0 +1,48 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/7857589272",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/7231737461",
+              "NativeAdmob": "ca-app-pub-5694162002949954/5687555655",
+                      "MaxBanner": "13c2ebc593222c8c",
+                      "MaxInterstitial":"fec5a606787f9838",
+                      "MaxNative":"d679010046f3c72e",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+
+
+              "title": "ChimeraLand guide",
+              "image": "https://static.wixstatic.com/media/94d710_b08d39c5883b420e8d23120fa2037e90~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_bb487bdf710341b7ae69dbc940ed44c2/240p/mp4/file.mp4",
+
+
+
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
