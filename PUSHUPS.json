@@ -1,0 +1,48 @@
+{
+        "GuideData": {
+          "AdsController": 
+            {
+              "NetworkAds": "max",
+      
+              "BannerAdmob": "ca-app-pub-5694162002949954/1129024234",
+              "InterstitialAdmob": "ca-app-pub-5694162002949954/2936929929",
+              "NativeAdmob": "ca-app-pub-5694162002949954/2941084762",
+                      "MaxBanner": "1c82dedac159c0f3",
+                      "MaxInterstitial":"f46cc7f1926c7eae",
+                      "MaxNative":"97a96f2e471d0613",
+                      
+      
+              
+                      
+              "ImageBanner": false,
+              "ImageBannerImg" : "",
+              "ImageBannerURL" : ""
+                      
+            },
+      
+          "items": [
+            {
+
+
+              "title": "Furnish Up",
+              "image": "https://static.wixstatic.com/media/94d710_66bacf67b480480b837f1facbe7d0bfc~mv2.png",
+                    "video": "https://video.wixstatic.com/video/94d710_b25dc548c01342c78c57589ff804e1ca/360p/mp4/file.mp4",
+
+
+
+                      "color": "#FFFFFF",
+              "text_size": "25",
+              "isLink": false,
+                      "link_title": "",
+                      "setLink": "",
+              "image_link": "",
+              "text": "",
+              "isNative": false,
+                      "background": "#00FF00"
+            }
+          ]
+         
+                              
+              
+        }
+      }
